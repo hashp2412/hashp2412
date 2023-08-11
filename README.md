@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hashp2412
+- 👋 Hi, I’m Harsh (Bugraiser)
 - 👀 Code give me thrills that netflix can't.
-- 🌱 I’m currently learning Deep Learning.
+- 🌱 I’m currently Associate at Nokia.
 - 📫 How to reach me: harshparasharhs@gmail.com
 
 <!---
